@@ -1,3 +1,3 @@
-module ShinjukuOpac
-  VERSION = "0.0.1"
+module ShinjukuOPAC
+  VERSION = "0.0.2"
 end
